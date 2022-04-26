@@ -8,7 +8,7 @@ public class RestControllerPrueba {
 
     @GetMapping
     public String getMessage(){
-        return "Hola mundo";
+        return "Hola mundo, como estas?";
     }
 
 }
